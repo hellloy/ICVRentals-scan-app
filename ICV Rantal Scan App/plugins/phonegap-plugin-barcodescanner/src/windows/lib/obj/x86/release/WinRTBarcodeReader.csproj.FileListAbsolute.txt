@@ -1,0 +1,17 @@
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\bin\x86\Release\WinRTBarcodeReader.winmd
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\bin\x86\Release\WinRTBarcodeReader.pri
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\bin\x86\Release\ZXing.winmd
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\WinRTBarcodeReader.csprojResolveAssemblyReference.cache
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\WinRTBarcodeReader.winmd
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\WinRTBarcodeReader.winmdobj
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\priconfig.xml
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\priconfig.xml.intermediate
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\layout.resfiles
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\layout.resfiles.intermediate
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\resources.resfiles
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\resources.resfiles.intermediate
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\pri.resfiles
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\pri.resfiles.intermediate
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\qualifiers.txt
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\qualifiers.txt.intermediate
+C:\Users\hellloy\Documents\Visual Studio 2015\Projects\ICV Rantal Scan App\ICV Rantal Scan App\plugins\phonegap-plugin-barcodescanner\src\windows\lib\obj\x86\release\MultipleQualifiersPerDimensionFound.txt

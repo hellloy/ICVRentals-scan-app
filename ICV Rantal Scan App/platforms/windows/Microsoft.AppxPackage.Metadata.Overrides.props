@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--ЭТОТ ФАЙЛ СОЗДАН В ПРОЦЕССЕ СБОРКИ VISUAL STUDIO ДЛЯ ТЕЛЕМЕТРИИ-->
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="AppxManifestMetadata">
+    <AppxManifestMetaData Include="VisualStudio">
+      <Version>14.0</Version>
+    </AppxManifestMetaData>
+    <AppxManifestMetaData Include="VisualStudioEdition">
+      <Value>Microsoft Visual Studio Professional 2015</Value>
+    </AppxManifestMetaData>
+    <AppxManifestMetaData Include="C:\Windows\system32\cmd.exe">
+      <Name>OperatingSystem</Name>
+    </AppxManifestMetaData>
+    <AppxManifestMetaData Include="ProjectGUID">
+      <Value>ad3ce32b-152c-404b-bd65-f25b5d5b6aaf</Value>
+    </AppxManifestMetaData>
+  </ItemGroup>
+</Project>
